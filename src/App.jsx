@@ -3,6 +3,7 @@ import {
   Route,
   Routes,
   useLocation,
+  Outlet,
 } from "react-router-dom";
 import Services from "./components/NavItems/Services";
 import Resume from "./components/NavItems/Resume";
@@ -42,6 +43,7 @@ const App = () => {
       <Header />
       <StairTransition />
       <AnimatedRoutes />
+      <Outlet />
     </Router>
   );
 };
