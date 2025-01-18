@@ -5,6 +5,12 @@ import javascript from "../../../public/assets/icons/javascript.svg";
 import react from "../../../public/assets/icons/react.svg";
 import tailwindcss from "../../../public/assets/icons/tailwindcss.svg";
 
+// Mockups
+import project1 from "../../../public/assets/work/project-1.png";
+import project2 from "../../../public/assets/work/project-2.png";
+import project3 from "../../../public/assets/work/project-3.png";
+import project4 from "../../../public/assets/work/project-4.png";
+
 import { motion } from "framer-motion";
 import { useState } from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
@@ -31,8 +37,7 @@ const projects = [
       { icon: css3, name: "CSS 3" },
       { icon: javascript, name: "Javascript" },
     ],
-    iconStyles: "",
-    image: "../../../public/assets/work/project-1.png",
+    image: project1,
     github: "https://github.com/MehdiGuetta/quizapp.github.io",
     live: "https://quizapp-github-io-kappa.vercel.app/",
   },
@@ -47,7 +52,7 @@ const projects = [
       { icon: css3, name: "CSS 3" },
       { icon: javascript, name: "Javascript" },
     ],
-    image: "../../../public/assets/work/project-2.png",
+    image: project2,
     github: "https://github.com/MehdiGuetta/ageCalculator",
     live: "https://age-calculator-gamma-lemon.vercel.app/",
   },
@@ -62,7 +67,7 @@ const projects = [
       { icon: css3, name: "CSS 3" },
       { icon: javascript, name: "Javascript" },
     ],
-    image: "../../../public/assets/work/project-3.png",
+    image: project3,
     github: "https://github.com/MehdiGuetta/MusicPlayer",
     live: "https://music-player-six-rose.vercel.app/",
   },
@@ -77,7 +82,7 @@ const projects = [
       { icon: tailwindcss, name: "Tailwind CSS" },
       { icon: react, name: "React JS" },
     ],
-    image: "../../../public/assets/work/project-4.png",
+    image: project4,
     github: "https://github.com/MehdiGuetta/studentManagement2",
     live: "https://student-management2-ulpm.vercel.app/",
   },
