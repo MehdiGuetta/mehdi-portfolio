@@ -27,7 +27,7 @@ import { motion } from "framer-motion";
 const about = {
   title: "About me",
   description:
-    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates natus doloremque nulla totam nam deleniti?",
+    "I am Mehdi El Bettioui, a passionate and dedicated individual with a strong foundation in learning and growth.",
   info: [
     {
       fieldName: "Name",
@@ -64,7 +64,7 @@ const education = {
   icon: "/assests/resume/cap.svg",
   title: "My Education",
   description:
-    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates natus doloremque nulla totam nam deleniti?",
+    "A journey of learning and growth, building the skills and knowledge to shape my future.",
   items: [
     {
       institution: "ISTA Hay Riyad NTIC, Rabat",
@@ -82,7 +82,7 @@ const education = {
 const skills = {
   title: "My skills",
   description:
-    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates natus doloremque nulla totam nam deleniti?",
+    "A blend of expertise and dedication, honed to deliver creative and effective solutions.",
   skillsList: [
     {
       icon: html5Icon,

@@ -7,28 +7,28 @@ const services = [
     num: "01",
     title: "Web Development",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, similique.",
+      "Crafting modern, responsive websites tailored to your unique needs.",
     href: "",
   },
   {
     num: "02",
     title: "UI/UX Design",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, similique.",
+      "Designing intuitive and engaging user experiences with a focus on aesthetics and functionality.",
     href: "",
   },
   {
     num: "03",
     title: "Social media management",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, similique.",
+      "Boosting your online presence with effective strategies and consistent content.",
     href: "",
   },
   {
     num: "04",
     title: "SEO",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, similique.",
+      "Enhancing your website's visibility and ranking to drive organic traffic.",
     href: "",
   },
 ];
