@@ -6,10 +6,10 @@ import react from "../../../public/assets/icons/react.svg";
 import tailwindcss from "../../../public/assets/icons/tailwindcss.svg";
 
 // Mockups
-import project1 from "../../../public/assets/work/project-1.png";
-import project2 from "../../../public/assets/work/project-2.png";
-import project3 from "../../../public/assets/work/project-3.png";
-import project4 from "../../../public/assets/work/project-4.png";
+import project1 from "../../../public/assets/work/project-1.jpg";
+import project2 from "../../../public/assets/work/project-2.jpg";
+import project3 from "../../../public/assets/work/project-3.jpg";
+import project4 from "../../../public/assets/work/project-4.jpg";
 
 import { motion } from "framer-motion";
 import { useState } from "react";
