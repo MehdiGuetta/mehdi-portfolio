@@ -1,9 +1,3 @@
 {
-  "version": 2,
-  "builds": [
-    {
-      "src": "main.jsx",
-      "use": "@vercel/static"
-    }
-  ]
+  "rewrites": [{ "source": "/(.*)", "destination": "/" }]
 }
