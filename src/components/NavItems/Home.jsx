@@ -21,7 +21,10 @@ const Home = () => {
               proficient in various programming languages and technologies
             </p>
             <div className="flex flex-col xl:flex-row items-center gap-8">
-              <a href="/cv.pdf" download="El Bettioui El Mehdi CV.pdf">
+              <a
+                href="/El Bettioui El Mehdi.pdf"
+                download="El Bettioui El Mehdi CV.pdf"
+              >
                 <Button
                   variant="outline"
                   size="lg"
